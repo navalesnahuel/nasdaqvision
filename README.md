@@ -4,7 +4,6 @@
 </p>
 <h1 align="center">Nasdaq Vision</h1>
 
----
 ## Descripcion
 Este repositorio contiene un proyecto personal
 Se centra en el desarrollo de una pipeline que extrae, transforma y carga datos desde y hacia diversas fuentes.
