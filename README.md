@@ -5,9 +5,9 @@
 <h1 align="center">Nasdaq Vision</h1>
 
 ## Descripcion
-Este repositorio contiene un proyecto personal
-Se centra en el desarrollo de una pipeline que extrae, transforma y carga datos desde y hacia diversas fuentes.
-Además, incluye la creación de un dashboard con visualizaciones utilizando Streamlit.
+<p>Este repositorio contiene un proyecto personal</p>
+<p>Se centra en el desarrollo de una pipeline que extrae, transforma y carga datos desde y hacia diversas fuentes.</p>
+<p>Además, incluye la creación de un dashboard con visualizaciones utilizando Streamlit.</p>
 
 ---
 ## Infraestructura
