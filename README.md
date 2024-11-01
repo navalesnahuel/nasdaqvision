@@ -11,7 +11,7 @@ Se centra en el desarrollo de una pipeline que extrae, transforma y carga datos 
 Además, incluye la creación de un dashboard con visualizaciones utilizando Streamlit.
 
 ---
-## Infraescructura
+## Infraestructura
 ### Herramientas y Servicios
 ![spark](https://img.shields.io/badge/Apache_Spark-FF694B?style=flat-square&logo=apache-spark&logoColor=white) ![streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![airflow](https://img.shields.io/badge/Apache_Airflow-844FBA?style=flat-square&logo=apache-airflow&logoColor=white) ![docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![minio](https://img.shields.io/badge/MinIO-ff4b4b?style=flat-square&logo=minio&logoColor=white) ![postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) 
 
